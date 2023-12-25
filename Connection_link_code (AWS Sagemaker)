@@ -1,0 +1,25 @@
+#to connect python file (AWS Sagemaker) to web app
+
+from getpass import getpass
+# uplink_key = getpass('Enter your Uplink key: ')
+
+uplink_key = 'server_TFKWGAGVLZ3VWY6T5KD6KWBV-7XQ'
+
+!pip install anvil-uplink
+
+import anvil.server
+anvil.server.connect('server_TFKWGAGVLZ3VWY6T5KD6KWBV-7XQ')
+
+Connecting to wss://anvil.works/uplink
+Anvil websocket open
+Connected to "ChatBot" as SERVER
+
+@anvil.server.callable
+def chatbot(sentence):
+.
+.
+.
+
+
+
+anvil.server.wait_forever() # Website will run
