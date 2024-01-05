@@ -5,8 +5,8 @@ I have shown few sample response, which can be seen in the image below & in the 
 Users can engage with the chatbot by posing questions or inputting queries, and in return, they receive insightful and intelligent responses. The chatbot excels in providing astute answers, particularly in the realm of science-related inquiries, showcasing its proficiency and versatility.
 
 Another similar project of mine, which masters drug related questions :
-Link : https://knowledgeable-strident-cold.anvil.app/
-It's live!!! You can check it. 
+Link : https://knowledgeable-strident-cold.anvil.app/ </br>
+It's live!!! You can check it. </br>
 (Tech stack - ML, LLM, Fine-tuning, Phi-2, PEFT, Lora, AWS)
 
 **Major steps :-**
